@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome the CACI Forecaster Manual!
-===================================
+Welcome to the CACI Forecaster Manual!
+======================================
 
 .. toctree::
    :maxdepth: 2
