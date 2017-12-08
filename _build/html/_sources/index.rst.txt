@@ -4,8 +4,10 @@
    contain the root `toctree` directive.
    Run `make html` to build as html 
 
-CACI Forecaster Manual
-======================
+CACI Forecaster Reference Manual
+================================
+
+This is the manual for the CACI Forecaster
 
 .. toctree::
    :maxdepth: 2
