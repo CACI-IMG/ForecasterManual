@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'Forecaster Manual'
+project = 'Forecaster v3.3 Manual'
 copyright = '2017, John Tansley'
 author = 'John Tansley'
 
